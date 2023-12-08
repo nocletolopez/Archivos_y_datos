@@ -1,0 +1,27 @@
+{
+    "clientes": [
+        {
+            "Nombre": "Sigrid",
+            "Edad": 27,
+            "Cantidad": [
+                7.17
+            ],
+            "activo": true
+        },
+        {
+            "Nombre": "Joe",
+            "Edad": 31,
+            "Cantidad": [
+                1.9,
+                5.5
+            ],
+            "activo": false
+        },
+        {
+            "Nombre": "Theodoric",
+            "Edad": 36,
+            "Cantidad": null,
+            "activo": true
+        }
+    ]
+}
